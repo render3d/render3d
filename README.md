@@ -20,7 +20,9 @@ I'm a software engineer at Accenture Next Gen Engineering.
 - 🔭 I’m currently working on backend applications for the public sector using Java and AWS serverless
 - 🌱 I’m currently learning Go and Rust languages
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about my university project on self-driving bicycles
+- 💬 Ask me about my university projects on:
+  - 🚲 [self-driving bicycles](https://render3d.tech/bicycle.pdf)
+  - 2️⃣ [testing prime numbers](https://render3d.tech/primes.pdf)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/render3d/">LinkedIn</a>
 - 😄 Pronouns: he/him
 
