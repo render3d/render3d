@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer at Accenture Next Gen Engineering.
+I'm a software engineer at [Daintta](https://daintta.com/).
 
-- 🔭 I’m currently working on backend applications for the public sector using Java and AWS serverless
-- 🌱 I’m currently learning Go and Rust languages
+- 🔭 I’m currently working on building secure infrastructure for distributed systems
+- 🌱 I’m currently learning Ansible for on-prem DevOps and studying for the CCNA certification
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about my university projects on:
   - 🚲 [self-driving bicycles](https://render3d.tech/bicycle.pdf)
   - 2️⃣ [testing prime numbers](https://render3d.tech/primes.pdf)
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/render3d/">LinkedIn</a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/render3d/)
 - 😄 Pronouns: he/him
 
 ---
